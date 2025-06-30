@@ -61,6 +61,11 @@ Data was extracted from a MySQL table named `sales_data`, and included attribute
 - **Rating-Based Slicer**
 
 ---
+## 📈 Dashboard Preview
+
+![Dashboard Preview](https://github.com/Vinoth120130/Walmart-Sales-Analysis-MYSQL-Power-Bi/blob/main/Power%20Bi.jpg)
+
+---
 
 ## 💡 Business Insights
 
